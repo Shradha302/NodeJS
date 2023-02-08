@@ -1,0 +1,14 @@
+{
+  "name": "lec26",
+  "version": "1.0.0",
+  "description": "route level middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shradha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
